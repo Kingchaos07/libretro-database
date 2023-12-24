@@ -2,27 +2,27 @@ cheats = 30
 
 cheat0_desc = "Master Code"
 cheat0_code = "D8BAE4D9+4864DCE5+DD5F41DA+90B02762+96B7FF51+60DE4853+1C7B3231+B494738C"
-cheat0_enable = false
+cheat0_enable = true
 
 cheat1_desc = "Max. Geld (999.999$)"
 cheat1_code = "66BC3257+9381D042+8E883EFF+92E9660D+9EC4DF6A+21B17605"
-cheat1_enable = false
+cheat1_enable = true
 
 cheat2_desc = "Sonderbonbon x99 im PC"
 cheat2_code = "4B053F6A+D785DEE2"
-cheat2_enable = false
+cheat2_enable = true
 
 cheat3_desc = "Meisterball x99 im PC"
 cheat3_code = "D935946C+D758DF54"
-cheat3_enable = false 
+cheat3_enable = true
 
 cheat4_desc = "Nur Männliche Pokemon"
 cheat4_code = "A16C74AD+D5276E96+141BB87C+83D7018F"
-cheat4_enable = false 
+cheat4_enable = true 
 
 cheat5_desc = "Nur Weibliche Pokemon"
 cheat5_code = "A16C74AD+D5276E96+78DA95DF+44018CB4"
-cheat5_enable = false 
+cheat5_enable = true 
 
 cheat6_desc = "Schnell Eier schlüpfen"
 cheat6_code = "0E3F7446+4C55350A+8E883EFF+92E9660D"
