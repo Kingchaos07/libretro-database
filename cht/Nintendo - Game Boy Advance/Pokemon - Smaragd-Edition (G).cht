@@ -2,19 +2,19 @@ cheats = 30
 
 cheat0_desc = "Master Code"
 cheat0_code = "D8BAE4D9+4864DCE5+DD5F41DA+90B02762+96B7FF51+60DE4853+1C7B3231+B494738C"
-cheat0_enable = false
+cheat0_enable = true
 
 cheat1_desc = "Max. Geld (999.999$)"
 cheat1_code = "66BC3257+9381D042+8E883EFF+92E9660D+9EC4DF6A+21B17605"
-cheat1_enable = false
+cheat1_enable = true
 
 cheat2_desc = "Sonderbonbon x99 im PC"
 cheat2_code = "4B053F6A+D785DEE2"
-cheat2_enable = false
+cheat2_enable = true
 
 cheat3_desc = "Meisterball x99 im PC"
 cheat3_code = "D935946C+D758DF54"
-cheat3_enable = false 
+cheat3_enable = true
 
 cheat4_desc = "Nur Männliche Pokemon"
 cheat4_code = "A16C74AD+D5276E96+141BB87C+83D7018F"
@@ -38,7 +38,7 @@ cheat8_enable = false
 
 cheat9_desc = "Wilde Pokemon sind Shiny"
 cheat9_code = "F3A9A86D+4E2629B4+18452A7D+DDE55BCC"
-cheat9_enable = false 
+cheat9_enable = true 
 
 cheat10_desc = "Immer Rennen"
 cheat10_code = "4EEF4C9A+950F2F8B"
@@ -46,7 +46,7 @@ cheat10_enable = false
 
 cheat11_desc = "1:8 Chance Pokerus von Wilde"
 cheat11_code = "913BACF0+F2AAF80D+117279A985478753"
-cheat11_enable = false 
+cheat11_enable = true 
 
 cheat12_desc = "Ausverkauf in Seegrasulb City"
 cheat12_code = "3B0BB4C1+1DCB44C5+A05A144C+078B0074"
